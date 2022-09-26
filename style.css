@@ -1,6 +1,6 @@
 h1 {
 
-	color: red;
+	color: #fff;
 }
 body, html {
 
@@ -11,7 +11,7 @@ body, html {
 
 body {
 
-	background: url(./nen.gif) no-repeat center center fixed;
+	background: url(./img/raj.gif) no-repeat center center fixed;
 	background-size: cover;
 }
 img {
@@ -32,7 +32,7 @@ header > img {
 	height: 9em;
 	border-radius: 100%;
 	border: 2px solid #fff;
-	box-shadow: red 0px 2px 8px 0px;
+	box-shadow: red 0px 2px 8px 0px; 
 }
 header > h1 {
 	display: inline-block;
@@ -51,7 +51,7 @@ ul {
 	padding: 2em;
 }
 ul > li {
-
+   
    background-color: #fffa;
    border-radius: 1em;
    padding: 0.5;
@@ -75,7 +75,7 @@ a {
 	font-size: 20px;
 	align-items: center;
 	padding: 5px;
-
+	
 }
 ul {
 	text-align: center;
@@ -84,7 +84,7 @@ ul {
 p {
 
 	text-align: center;
-	color: #fff;
+	color: #ffffff;
 }
 .cuoi {
 
