@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08faea62-c396-4d77-9236-92b4bdb6ca1f" name="Changes" comment="" />
+    <list default="true" id="08faea62-c396-4d77-9236-92b4bdb6ca1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/execurise/film se gay`.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/execurise/se gay.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -35,6 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/ASUS/Documents/GitHub/Group-3",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,6 +53,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\Documents\GitHub\Group-3" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\GitHub\Group-3\execurise" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,7 +65,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664157419775</updated>
-      <workItem from="1664157421372" duration="4821000" />
+      <workItem from="1664157421372" duration="5556000" />
+      <workItem from="1664501451695" duration="2851000" />
     </task>
     <servers />
   </component>
