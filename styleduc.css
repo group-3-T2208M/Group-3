@@ -11,7 +11,7 @@ body, html {
 
 body {
 
-	background: url(./img/raj.gif) no-repeat center center fixed;
+	background: url(./img/nen.gif) no-repeat center center fixed;
 	background-size: cover;
 }
 img {
@@ -84,11 +84,11 @@ ul {
 p {
 
 	text-align: center;
-	color: #ffffff;
+	color: #fd000d;
 }
 .cuoi {
 
 	margin-top:5px ;
 	text-align: center;
-	color: #fff;
+	color: #fd000d;
 }
