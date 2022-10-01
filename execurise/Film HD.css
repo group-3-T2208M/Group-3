@@ -1,0 +1,67 @@
+body{
+    margin: 0 100px;
+    background-color: #FFFFFF;
+    border: #000000 ;
+    font-family: Arial, Tahoma;
+    padding: 0;
+}
+#logo{
+    font-size: 12px;
+    line-height: 14px;
+    float: left;
+}
+#slogan{
+    text-align: center;
+    height: 100%;
+    background-color: #FFFFFF;
+}
+#menu{
+    width: 100%;
+    background-color: coral;
+}
+#menu ul{
+    border: black;
+    padding: 0;
+    margin: 0;
+}
+#menu ul li{
+    display: inline-block;
+    padding: 10px 27px;
+}
+a{
+    text-decoration: none;
+}
+#img{
+    width: 100%;
+    background-color: darkblue;
+}
+#img a{
+    border: black;
+    padding: 0;
+    margin: 0;
+}
+#img a img{
+    padding: 10px 20px;
+    height: 150px;
+    width: 135px;
+}
+.box{
+    width: 100%;
+    background-color: darkblue;
+}
+.box-item{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+.box-item img{
+    height: 95px;
+    width: 50px;
+}
+.box-item p{
+    margin: 0;
+    display: inline;
+    height: 100%;
+}
+
