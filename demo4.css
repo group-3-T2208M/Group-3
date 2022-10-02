@@ -1,0 +1,112 @@
+
+body{
+  margin: 0 100px;
+  background-color: #0c670c;
+  border: #000000 ;
+  font-family: Arial, Tahoma;
+  padding: 0;
+}
+#logo{
+  font-size: 12px;
+  line-height: 14px;
+  float: left;
+}
+#slogan{
+  text-align: center;
+  height: 100%;
+  background-color: #FFFFFF;
+}
+#menu{
+  width: 100%;
+  background-color: coral;
+}
+#menu ul{
+  border: black;
+  padding: 0;
+  margin: 0;
+}
+#menu ul li{
+  display: inline-block;
+  padding: 10px 27px;
+}
+#menu ul li a:hover
+{
+  color: red;
+}
+a{
+  text-decoration: none;
+}
+#img{
+
+  width: 100%;
+  background-color: #7777cc;
+
+
+
+}
+#img a{
+  border: black;
+  padding: 0;
+  margin: 0;
+
+
+}
+#img a img{
+
+  padding: 10px 20px;
+  height: 150px;
+  width: 135px;
+
+
+}
+#img a img:hover
+{
+  color: #0a0004;
+}
+.box{
+
+  width: 100%;
+  background-color: #7777cc;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+.box-item{
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  border-bottom: 5px solid #0c670c;
+
+}
+.box-item img{
+  margin-left: 15px;
+  height: 125px;
+  width: 50px;
+  min-width: 7%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+
+}
+.box-item p{
+  margin: 0;
+  display: inline;
+  height: 100%;
+  margin: auto 10px auto 10px;
+}
+.footer{
+  height: 40px;
+  clear: both;
+  border: 2px solid #666666;
+  background-color: #0c130c;
+  /*margin-top: 50px;*/
+  margin-bottom: 50px;
+}
+.top{
+  color: #ffffff;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Bell MT";
+}
+
